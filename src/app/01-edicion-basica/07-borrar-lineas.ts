@@ -15,9 +15,7 @@
 let NoMeBorres = ':)';
 
 NoMeBorres = '1';
-    
 NoMeBorres = '1';
-    
 
 
 // Resultado final (sin los comentarios claro.)
